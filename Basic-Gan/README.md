@@ -1,1 +1,1 @@
-"# Basic-Gan" 
+# Basic-Gan 
